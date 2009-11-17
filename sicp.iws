@@ -16,10 +16,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_28.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/chap2.clj" afterPath="$PROJECT_DIR$/test/chap2.clj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_28.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_27.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_25.clj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_29.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sicp.iws" afterPath="$PROJECT_DIR$/sicp.iws" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_23.clj" />
     </list>
@@ -80,15 +81,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_5.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sicp/2/1/2_5.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2_6.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/1/2_6.clj">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,10 +144,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_28.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2_28.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_28.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.6413302">
+            <state line="11" column="0" selection-start="171" selection-end="342" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_29.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_29.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="122" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.6896552">
               <folding />
             </state>
           </provider>
@@ -164,7 +165,7 @@
       <file leaf-file-name="chap2.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/chap2.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="95" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+            <state line="5" column="110" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -326,70 +327,6 @@
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="2" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="1" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="SICP" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="src" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="1" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="3" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="SICP" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="src" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="sicp" />
-          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="1" />
           <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -705,13 +642,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sicp/1/3/1_43.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sicp/1/3/1_45.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -803,16 +733,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/chap2.clj">
+    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_28.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="95" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="171" selection-end="342" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_28.clj">
+    <entry file="file://$PROJECT_DIR$/test/chap2.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.6413302">
+        <state line="5" column="110" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_29.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="122" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.6896552">
           <folding />
         </state>
       </provider>
