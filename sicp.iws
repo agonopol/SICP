@@ -18,10 +18,11 @@
     <list default="true" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/chap2.clj" afterPath="$PROJECT_DIR$/test/chap2.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_37.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sicp/2/2/2_35.clj" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_35.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_33.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sicp/2/2/2_31.clj" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_31.clj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_42.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_34.clj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_35.clj" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sicp/2/2/2_36.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sicp.iws" afterPath="$PROJECT_DIR$/sicp.iws" />
     </list>
@@ -82,15 +83,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_27.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_27.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="82" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2_25.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_25.clj">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,7 +104,16 @@
       <file leaf-file-name="2_35.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_35.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="415" vertical-scroll-proportion="0.0">
+            <state line="13" column="34" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_42.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_42.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="0" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.739759">
               <folding />
             </state>
           </provider>
@@ -127,10 +128,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_37.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2_37.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_37.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="9" selection-start="43" selection-end="43" vertical-scroll-proportion="0.17349398">
+            <state line="0" column="0" selection-start="0" selection-end="17" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,7 +140,7 @@
       <file leaf-file-name="chap2.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/chap2.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="95" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+            <state line="6" column="110" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,7 +149,7 @@
       <file leaf-file-name="2_21.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_21.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -574,7 +575,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1440" height="848" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
@@ -595,7 +596,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18135838" sideWeight="0.6314286" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35857144" sideWeight="0.5" order="2" side_tool="false" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35857144" sideWeight="0.5" order="2" side_tool="false" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" />
       <window_info id="Web Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
@@ -669,13 +670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_23.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sicp/2/1/2_2.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="47" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
@@ -732,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_21.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_20.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="16" selection-start="34" selection-end="35" vertical-scroll-proportion="-0.72">
@@ -753,20 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_35.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="415" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/chap2.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="95" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_36.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="22" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
@@ -774,9 +747,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_35.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_37.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="43" selection-end="43" vertical-scroll-proportion="0.17349398">
+        <state line="0" column="0" selection-start="0" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chap2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="110" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_21.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sicp/2/2/2_42.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="2532" selection-end="2532" vertical-scroll-proportion="0.739759">
           <folding />
         </state>
       </provider>

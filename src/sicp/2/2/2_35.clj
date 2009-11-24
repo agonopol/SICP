@@ -8,12 +8,13 @@
      (op (first seq) (accumulate op init (rest seq)))))
 
 
-(defn leaves [x] (if (list? x) (if (empty? x) 0 (+ (leaves (first x)) (leaves (last x)))) 1))
+
 
 (defn count-leaves [t]
-  (accumulate (fn [x y] (+ y x)) nil (map leaves t)))
+  (accumulate (fn [x y] (+ x y)) 0 (map (fn [x] (if (seq? x) (count-leaves x) 1)) t)))
 
 (deftest leaf-tests
   (are [expression expected] (= expression expected)
-
+    3 (count-leaves '(2 (1 2)))
+    5 (count-leaves '((2 3 4) (1 2)))
     ))
