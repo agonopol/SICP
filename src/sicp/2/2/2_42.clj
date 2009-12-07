@@ -28,6 +28,7 @@
   (is (= '((1 4)) (adjoin-positions 1 4 nil)))
   )
 
+
 (defn all? [t]
  (reduce (fn [x y] (and x y))
          true
